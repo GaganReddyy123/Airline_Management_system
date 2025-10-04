@@ -1,5 +1,3 @@
-Of course. Here is a template with information you can add to the README file for your Airline Management System project. You can copy, paste, and customize it with your project's specific details.
-
 ✈️ Airline Management System
 A brief one-sentence description of your project. For example: "A comprehensive system to manage flight schedules, bookings, and passenger information for an airline."
 
